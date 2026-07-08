@@ -3,16 +3,13 @@
 A monorepo for predicting FIFA World Cup 2026 match outcomes using Elo ratings, Poisson xG modelling, and Monte Carlo simulation.
 
 
-<<<<<<< HEAD
-=======
+
 
 
 
 https://github.com/user-attachments/assets/7514c388-868e-488f-8eaa-6ce65833186e
 
 
-
->>>>>>> b09805cd847d277bd6f30b7fff0753512b0cee7b
 
 ## Structure
 
