@@ -5,7 +5,9 @@ A monorepo for predicting FIFA World Cup 2026 match outcomes using Elo ratings, 
 
 
 
-https://github.com/user-attachments/assets/dd91fd96-8ebc-4b83-adce-a6fb9e26a13d
+
+https://github.com/user-attachments/assets/7514c388-868e-488f-8eaa-6ce65833186e
+
 
 
 
